@@ -12,3 +12,14 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
 }
+.App-header{
+  margin: 1%;
+}
+.top-heading, .sub-heading{
+  color: yellowgreen;
+  text-align: center;
+  margin: 0;
+}
+.sub-heading{
+  margin-left: 5%;
+}
